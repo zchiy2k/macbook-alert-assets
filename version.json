@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "url": "https://github.com/zchiy2k/sentinel-mac/releases/latest",
-  "notes": "在 Releases 页面查看更新说明"
+  "notes": "设置标签顺序调整、Bark 帮助、自动检查更新、证书签名修复"
 }
